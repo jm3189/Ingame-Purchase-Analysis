@@ -1,2 +1,2 @@
 # Heroes Of Pymoli Analysis
-Data Analysis utilizing Pandas
+Cleaned csv file of user data utilizing Pandas throughout the analysis.
